@@ -1,5 +1,9 @@
 # FastAPI webs craper
 
+## website to scrape
+
+- [Quotes](https://quotes.toscrape.com/tag/life/)
+
 ## libraries
 
 - [pip3 install requests-html](https://pypi.org/project/requests-html/)
