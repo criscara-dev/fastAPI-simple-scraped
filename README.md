@@ -1,4 +1,4 @@
-# FastAPI webs craper
+# FastAPI web sraper
 
 ## website to scrape
 
